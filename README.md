@@ -7,7 +7,7 @@ This project is from the  challenge website and does not use any frameworks or l
 
 ## Steps to use Docker 
 
-```shell
+ ```shell
 docker build -t saas-landing-page:1 .
 ```
 
